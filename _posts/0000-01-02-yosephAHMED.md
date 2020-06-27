@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"IM A DUCK"
 Use the left arrow to go back!
